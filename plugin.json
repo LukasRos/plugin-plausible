@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "title": "Plausible Analytics",
+    "description": "Includes Plausible Analytics code.",
+    "includes": [
+        "plausible.html"
+    ],
+    "fields": [
+        {
+            "field": "params.blog_domain",
+            "label": "Blog Domain",
+            "placeholder": "Hostname registered at plausible.io."
+        }
+    ]
+}
